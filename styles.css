@@ -1,0 +1,99 @@
+.container {
+    background-color: #fbfdfd;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    background-color: #86eff8;
+    padding: 40px;
+    border-color:rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 60%; /* adjust the width as needed */
+}
+.profile {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+.arrow{
+    margin-left: 6px;
+}
+.b{
+    color: #0820f7;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image {
+    width: 200px;
+    margin: 30px;
+    border-radius: 50%;
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #c438f3;
+}
+.name {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #100e10;
+}
+.c_awards {
+    background-color: #ffffff;
+    color: #110e11;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+.education {
+    background-color: #ffffff;
+    color: #110e11;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+.skills {
+    background-color: #ffffff;
+    color: #110e11;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;}
+.bio {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.button {
+    padding: 10px 10px;
+    font-size: 14px;
+    background-color: #515251;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: hsl(290, 76%, 73%);
+}
+
