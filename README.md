@@ -1,3 +1,5 @@
+# Portfolio
+
 This portfolio demonstrates my understanding of basic web development concepts. It features a simple webpage built with HTML, styled with CSS, and enhanced with interactive JavaScript elements.
 
 Features
